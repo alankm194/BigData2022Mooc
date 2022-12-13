@@ -1,0 +1,3 @@
+2178190	Albert Park	Albert Park hotel	Albert Park	-37.83333	145	P	PPLX	AU		7				5955		12	Australia/Melbourne	17/01/2015
+8348850	Albert Park	Albert Park hotel	"Almpert Park,Άλμπερτ Παρκ"	-37.84107	144.95198	P	PPLX	AU		7	25900			0		9	Australia/Melbourne	05/06/2015
+8828533	Albert Park	Albert Park hotel	Albert Park	-37.84069	144.95903	S	RSTN	AU		7	25900			0		8	Australia/Melbourne	09/04/2014
